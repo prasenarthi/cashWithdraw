@@ -1,0 +1,12 @@
+.fourth-sec {
+  display: flex;
+
+  background-color: #585076;
+  border: 1px solid #382f5a;
+  border-radius: 2px;
+  width: 48%;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin: 2px;
+}
